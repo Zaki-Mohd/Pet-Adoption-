@@ -29,7 +29,7 @@ Ensure you have the following installed:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/pet.git
+   git clone https://github.com/Zaki-Mohd/Pet-Adoption-.git
 2. Navigate to the project folder:
    cd pet
 3. Install the required dependencies:
